@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "discord-player": "^6.7.1",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.6",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "bot de estudos de programacao para discord"
+}
